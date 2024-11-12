@@ -1,7 +1,9 @@
 from flask import Flask, render_template, request, url_for
 import pickle
-from utils.preprocess import preprocess_user_ingredients
-from src.utils.preprocess import preprocess_user_ingredients
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
