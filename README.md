@@ -1,6 +1,6 @@
 # Gourmet Guru 🍲✨
 
-![Gourmet Guru Banner](src/static/images/hero-banner.jpg)
+![Gourmet Guru Banner](src/static/images/food-pic.jpg)
 
 Gourmet Guru is a web application that helps users discover recipes based on the ingredients they have on hand. Simply enter your ingredients, and Gourmet Guru will provide you with a list of delicious recipes to try.
 
