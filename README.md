@@ -24,7 +24,7 @@ Gourmet Guru is a web application that helps users discover recipes based on the
 ## Project Details 📝
 
 1. **Data Collection:** 📊<br/><br/>
-The recipe data was scraped from https://pinchofyum.com/ using a Python web scraping tool like Beautiful Soup. The following steps were taken:
+The recipe data was scraped from https://pinchofyum.com/ using a Python web scraping tool like Scrapy & Beautiful Soup. The following steps were taken:
 
 - **Identify the Data:** Determined which recipe attributes were necessary (e.g., title, ingredients, instructions).
 - **Scraping Process:** Wrote scripts to crawl the website and extract the relevant data. This involved sending HTTP requests to the website, parsing the HTML content, and extracting the desired information.
