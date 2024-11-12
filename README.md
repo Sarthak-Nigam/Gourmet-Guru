@@ -61,16 +61,7 @@ To recommend recipes based on ingredients, the following steps were taken:
 - **Deployment:** Pushed the application code to this Git repository. Connected the repository to Render and deployed the application by following Render's deployment guide.
 
 
-## Usage 🎉
 
-1. **Access the Application:** Visit the Gourmet Guru website at (https://recipe-genie-wihv.onrender.com/) to access the application.
-2. **Input Ingredients:** Enter the ingredients you have on hand into the provided input field.
-3. **Get Recipe Recommendations:** Click on the "Get Recipes" button to receive a list of recommended recipes based on your ingredients.
-4. **Explore Recipes:** Browse through the list of recommended recipes, and click on any recipe to view more details, including ingredients and instructions.
-
-<img alt="Usage" src="usage.gif" />
-
-## Acknowledgements 🙏
 
 - Recipes were scraped from [Pinch of Yum](https://pinchofyum.com/).
 - Background image for the website was sourced from [Freepik](https://www.freepik.com) and created by [rorozoa](https://www.freepik.com/free-photo/forkful-steaming-spaghetti-with-shiny-noodles-hint-tomato-sauce_135009355.htm#fromView=search&page=1&position=23&uuid=b2d1a2e0-1b78-438d-bb24-7d040d437f83).
