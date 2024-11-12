@@ -1,15 +1,15 @@
-# Recipe Genie 🍲✨
+# Gourmet Guru 🍲✨
 
-![Recipe Genie Banner](src/static/images/hero-banner.jpg)
+![Gourmet Guru Banner](src/static/images/hero-banner.jpg)
 
-Recipe Genie is a web application that helps users discover recipes based on the ingredients they have on hand. Simply enter your ingredients, and Recipe Genie will provide you with a list of delicious recipes to try.
+Gourmet Guru is a web application that helps users discover recipes based on the ingredients they have on hand. Simply enter your ingredients, and Gourmet Guru will provide you with a list of delicious recipes to try.
 
 ## Features 🌟
 
-- **Ingredient-based Recipe Recommendations:** Input your ingredients, and Recipe Genie will suggest recipes that you can make with those ingredients.
-- **Flexible Search:** Recipe Genie supports a wide range of ingredients, so you can find recipes for almost any combination of items in your pantry.
+- **Ingredient-based Recipe Recommendations:** Input your ingredients, and Gourmet Guru will suggest recipes that you can make with those ingredients.
+- **Flexible Search:** Gourmet Guru supports a wide range of ingredients, so you can find recipes for almost any combination of items in your pantry.
 - **Detailed Recipe Information:** View detailed information about each recipe, including title, description, total time, ingredients, and instructions.
-- **Interactive User Interface:** Recipe Genie provides a user-friendly interface that makes it easy to search for recipes and explore new culinary ideas.
+- **Interactive User Interface:** Gourmet Guru provides a user-friendly interface that makes it easy to search for recipes and explore new culinary ideas.
 
 ## Technologies Used 🛠️
 
@@ -63,7 +63,7 @@ To recommend recipes based on ingredients, the following steps were taken:
 
 ## Usage 🎉
 
-1. **Access the Application:** Visit the Recipe Genie website at (https://recipe-genie-wihv.onrender.com/) to access the application.
+1. **Access the Application:** Visit the Gourmet Guru website at (https://recipe-genie-wihv.onrender.com/) to access the application.
 2. **Input Ingredients:** Enter the ingredients you have on hand into the provided input field.
 3. **Get Recipe Recommendations:** Click on the "Get Recipes" button to receive a list of recommended recipes based on your ingredients.
 4. **Explore Recipes:** Browse through the list of recommended recipes, and click on any recipe to view more details, including ingredients and instructions.
